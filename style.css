@@ -10,7 +10,6 @@
         }
         
         .calculator {
-            min-width: 780px !important;
             background-color: #fff;
             padding: 20px;
             border-radius: 10px;
@@ -67,4 +66,5 @@
             background-color: #e74c3c;
             color: white;
         }
+
     
